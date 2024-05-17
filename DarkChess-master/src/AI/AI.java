@@ -35,4 +35,6 @@ public abstract class AI {
     {
         this.squareComponents = chessboard.getSquareComponents();
     }
+
+    //I don't know what to change.(XD)
 }
